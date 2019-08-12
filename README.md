@@ -68,7 +68,7 @@ Q群:490442439, 2群:761899104, 验证信息:jzvd, 微信公众号:jzvdjzt，微
 ## 使用
 
 即便是自定义UI，或者对Library有过修改，把自定义的逻辑写到继承JzvdStd的类中，然后依然通过如下骤调用播放器。
-
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 #### 注意：
 1.7.0版本之后要在JzvdStd外面包一层Layout
 2.如果引入配置失败，根据失败的log检查是否添加了Java8的配置，或者升级环境到最新的稳定版
